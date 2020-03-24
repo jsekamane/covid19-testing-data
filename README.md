@@ -1,14 +1,14 @@
 
 # Daily number of COVID-19 tests by country – time-series
 
-Current coveres (most of) europe up til 23. March 2020. I was unable to find official numbers for: BE, IE, NL, ES, CH, DE, MT.
+Currently coveres (most of) Europe up until the 23. March 2020. I was unable to find official numbers for: BE, IE, NL, ES, CH, DE, MT. Note differences in the reported units:
 
 * __Number of people tested:__ SE, NO, DK, UK, LV, SI, PT.
 * __Number of samples tested:__ AT, FI, IS,FR, HR, CZ, EE, HU, IE, LT, PL, RO, SK, IT.
 
-For other countries, see list of [coronavirus testing data sources](https://ourworldindata.org/coronavirus-testing-source-data) compiled by Esteban Ortiz-Ospina at _Our World in Data_.
+For other countries, see the list of [coronavirus testing data sources](https://ourworldindata.org/coronavirus-testing-source-data) compiled by _Our World in Data_ (Esteban Ortiz-Ospina).
 
-Extract data from Wikidata using the following [query](https://query.wikidata.org/):
+This data will be added to Wikidata to ease collaboration and updating. To extract data from Wikidata use the following [query](https://query.wikidata.org/):
 
 ```SPARQL
 SELECT ?item ?itemLabel ?dates ?caseNo ?deathNo ?testNo ?countryLabel WHERE {
