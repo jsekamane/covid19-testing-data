@@ -1,15 +1,15 @@
-﻿Country;Date;TestNo;reference URL;publisher;publication date;archived URL;retrieved;Notes
-Norway;23/03/2020;61251;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;23/02/2020;;;
-Norway;22/03/2020;54393;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;23/02/2020;;;
-Norway;21/03/2020;49451;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;20/03/2020;43735;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;19/03/2020;37939;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;18/03/2020;28522;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;17/03/2020;21647;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;16/03/2020;18062;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;14/03/2020;13748;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;13/03/2020;11978;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;12/03/2020;10448;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;22/02/2020;;;
-Norway;08/03/2020;4461;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;10/03/2020;https://web.archive.org/web/20200312202435/https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;23/03/2020;
-Norway;01/03/2020;1395;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;08/03/2020;https://web.archive.org/web/20200308211717/https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;23/03/2020;
-Norway;14/02/2020;75;https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;Folkehelseinstituttet;14/02/2020;https://web.archive.org/web/20200218061533/https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/;23/03/2020;
+﻿Country,Date,TestNo,reference URL,publisher,publication date,archived URL,retrieved,Notes
+Norway,23/03/2020,61251,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,23/02/2020,,,
+Norway,22/03/2020,54393,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,23/02/2020,,,
+Norway,21/03/2020,49451,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,20/03/2020,43735,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,19/03/2020,37939,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,18/03/2020,28522,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,17/03/2020,21647,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,16/03/2020,18062,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,14/03/2020,13748,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,13/03/2020,11978,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,12/03/2020,10448,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,22/02/2020,,,
+Norway,08/03/2020,4461,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,10/03/2020,https://web.archive.org/web/20200312202435/https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,23/03/2020,
+Norway,01/03/2020,1395,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,08/03/2020,https://web.archive.org/web/20200308211717/https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,23/03/2020,
+Norway,14/02/2020,75,https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,Folkehelseinstituttet,14/02/2020,https://web.archive.org/web/20200218061533/https://www.fhi.no/nettpub/coronavirus/helsepersonell/analyserte-prover-fra-mistenkte-tilfeller/,23/03/2020,
