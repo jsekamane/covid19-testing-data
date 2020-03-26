@@ -33,5 +33,32 @@ SELECT ?item ?itemLabel ?dates ?caseNo ?deathNo ?testNo ?countryLabel WHERE {
 ORDER BY (?country) (?dates)
 ```
 
+The extended Wikidata data model allows to retrieve number of clinical tests and number of recoveries with a separate knowledge graph property:
 
+```SPARQL
+SELECT ?item ?itemLabel ?dates ?caseNo ?deathNo ?testNo ?recovNo ?countryLabel WHERE {
+  ?item wdt:P361 wd:Q83741704.
+  OPTIONAL { ?item wdt:P17 ?country. }
+  ?item p:P1603 ?cases.
+  ?cases ps:P1603 ?caseNo;
+    pq:P585 ?dates.
+  OPTIONAL {
+    ?item p:P1120 ?deaths.
+    ?deaths pq:P585 ?dates;
+      ps:P1120 ?deathNo.
+  }
+  OPTIONAL { 
+    ?item p:P8011 ?test. 
+    ?test pq:P585 ?dates;
+      ps:P8011 ?testNo
+  }
+  OPTIONAL { 
+    ?item p:P8010 ?recov. 
+    ?recov pq:P585 ?dates;
+      ps:P8010 ?recovNo
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+ORDER BY (?country) (?dates)
+```
 
