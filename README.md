@@ -4,7 +4,7 @@ Time-series data with the daily number of tests for COVID-19 by country.
 
 > **UPDATE:** I merged the data into Wikidata. This way everybody can easily help expand coverage to more countries and help keep up-to-date with the latest published numbers. Get the [lastest available data][table] from Wikidata.
 
-[![Snapshot of the data on the cumulative number of COVID-19 tests by country](snapshot.svg)][figure]
+[![Snapshot of the data on the cumulative number of COVID-19 tests by country](figures/fig_snapshot.svg)][figure]
 
 - **Temporal coverage**: 27. January 2020 -- 26. March 2020.
 - **Spatial coverage**: 29 European countries.

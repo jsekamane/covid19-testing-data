@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "query.csv"},
+  "mark": "point",
+  "width": 200,
+  "height": 100,
+  "encoding": {
+    "facet": {"field": "countryLabel", "type": "ordinal", "columns": 4},
+    "x": {"field": "dates", "type": "temporal", "scale": {"interval": "day", "step": 7}},
+    "y": {"field": "testNo", "type": "quantitative", "scale": {"type": "log"}, "axis": {"tickCount": 5}},
+    "color": {"field": "countryLabel", "type": "nominal", "legend": null}
+  },
+  "resolve": {"axis": {"x": "independent", "y": "shared"}}
+}
