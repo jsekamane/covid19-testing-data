@@ -33,13 +33,13 @@ Time-series data with the daily number of tests for COVID-19 by country.
 		- Slovakia (SK)
 		- Italy (IT)
 - **Missing data**: Official numbers are missing for the following European countries.
-  -- Belgium (BE) 
-  -- Ireland (IE) 
-  -- Netherlands (NL) 
-  -- Spain (ES) 
-  -- Switzerland (CH)
-  -- Germany (DE)
-  -- Malta (MT)
+  - Belgium (BE) 
+  - Ireland (IE) 
+  - Netherlands (NL) 
+  - Spain (ES) 
+  - Switzerland (CH)
+  - Germany (DE)
+  - Malta (MT)
 - **Data sources:** Official numbers from government agencies or health organisations. In the dataset, each number has a reference. 
 
 ## Useful resources
